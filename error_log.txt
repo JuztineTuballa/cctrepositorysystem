@@ -1,0 +1,1 @@
+Error: Some student data already exists on your device.
