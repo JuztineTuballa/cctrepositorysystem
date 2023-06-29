@@ -1,0 +1,88 @@
+  body{  
+    
+}
+.order-card {
+    color: #fff;
+}
+
+.bg-c-blue {
+    background: linear-gradient(45deg,#4099ff,#73b4ff);
+}
+
+.bg-c-twitterblue {
+    background: linear-gradient(45deg,#1da1f2,#1da1f2);
+}
+
+.bg-c-twitterblue1 {
+    background: linear-gradient(45deg,#64a7f5,#0084B4);
+}
+
+.bg-c-green {
+    background: linear-gradient(45deg,#2ed8b6,#59e0c5);
+}
+
+.bg-c-yellow {
+    background: linear-gradient(45deg,#F1B814,#ffcb80);
+}
+
+.bg-c-pink {
+    background: linear-gradient(45deg,#FF5370,#ff869a);
+}
+
+.bg-c-red {
+    background: linear-gradient(45deg,#db376c,#ff869a);
+}
+
+.bg-c-purple {
+    background: linear-gradient(45deg,#c053ff,#a486ff);
+}
+
+.bg-c-purple1 {
+    background: linear-gradient(45deg,#a0a0f2,#6868ab);
+}
+
+.bg-c-cyan {
+    background: linear-gradient(45deg,#73959e,#9bc0c9);
+}
+
+.bg-c-lightgreen {
+    background: linear-gradient(45deg,#98f5aa,#23a18b);
+}
+
+.bg-c-lightgreen1 {
+    background: linear-gradient(45deg,#23a18b,#1cbda1);
+}
+
+
+
+.card {
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(5,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.card-text-white {
+    color:white;
+}
+
+.card .card-block {
+    padding: 25px;
+}
+
+.order-card i {
+    /* font-size: 26px; */
+}
+
+.f-left {
+    float: left;
+}
+
+.f-right {
+    float: right;
+}
+
+

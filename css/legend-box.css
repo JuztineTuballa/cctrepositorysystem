@@ -1,0 +1,27 @@
+.box {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+
+
+.winebox {
+  background: #ae163e;
+} 
+
+.scsbox {
+  background: #15753b;
+}
+
+.sedbox {
+  background: #2475a3;
+}
+
+.sbmbox {
+  background: #4f258f;
+}
+
+.shtmbox {
+  background: #b08821;
+}

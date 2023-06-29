@@ -1,0 +1,11 @@
+  .blockz {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #2d4780;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}

@@ -1,0 +1,101 @@
+/* Start Footer Section */
+
+
+
+.footer-section p {
+    color: #fff;
+}
+
+.footer-section .section-title {
+    color: #e8e6e6;
+}
+
+.footer-section .section-heading-2 span:after {
+    background: #e3e3e3;
+}
+
+.footer-section .section-heading-2 .section-title:after {
+    background-color:#e6e6e6;
+}
+
+.footer-section .section-heading-2 h3{
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.footer-address ul li {
+    padding: 5px 0;
+}
+
+.footer-address ul li .fa {
+    color: #e6e6e6;
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+.footer-address ul li a {
+    color: #C0C0C0;
+}
+
+.footer-address ul li a:hover {
+    color: #E32639;
+}
+
+.latest-tweet .media-body {
+    padding: 5px 14px 5px 6px;
+}
+
+.latest-tweet .media-body p {
+    font-size: 13px;
+    color: #aaa;
+}
+
+.latest-tweet h4.media-heading {
+    font-size: 10px;
+    color: #FF432E;
+}
+
+
+.footer-social ul.social-list li {
+    padding-right: 2px;
+}
+
+.footer-social ul.social-list li a i {
+    font-size: 18px;
+	display: block;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	text-align: center;
+}
+
+.footer-social ul.social-list li a {
+    background: #2e2e2e;
+    color: #9d9d9d;
+    transition: background 0.3s;
+    -webkit-transition: background 0.3s;
+    -moz-transition: background 0.3s;
+    -o-transition: background 0.3s;
+}
+
+.footer-social ul.social-list li a:hover {
+    background: #FF432E;
+    color: #000;
+}
+
+.flickr-widget li {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    width: 23.97%;
+}
+
+.flickr-widget li img {
+    width: 100%;
+    height: auto;
+}
+
+/* End Footer Section */
+
+
+ 
